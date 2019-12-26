@@ -1,7 +1,6 @@
-.block_list{
+.container{
     text-align: center;
-    width: 400px;
-    height: 400px;
-    border: 2px solid #ccc;
+    width: 800px;
+    border: 10px dashed #ccc;
     margin: 20px auto;
 }
